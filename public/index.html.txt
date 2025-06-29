@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>موقعي الأول</title>
+</head>
+<body>
+    <h1>مرحباً بكم في موقعي الأول على Firebase!</h1>
+    <p>هذه صفحة تجريبية.</p>
+</body>
+</html>
